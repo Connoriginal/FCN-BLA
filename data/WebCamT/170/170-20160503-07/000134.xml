@@ -1,0 +1,22 @@
+<annotation>
+    <video>170-20160503-07.avi</video>
+    <frame>000134</frame>
+    <time>2016/05/03 07:57:17</time>
+    <width>352</width>
+    <height>240</height>
+    <weather>3</weather>
+    <facing>1</facing>
+    <flow>1</flow>
+    <vehicle>
+        <id>1</id>
+        <bndbox>
+            <xmax>126</xmax>
+            <xmin>0</xmin>
+            <ymax>140</ymax>
+            <ymin>55</ymin>
+        </bndbox>
+        <type>9</type>
+        <direction>5</direction>
+        <previous>1</previous>
+    </vehicle>
+</annotation>

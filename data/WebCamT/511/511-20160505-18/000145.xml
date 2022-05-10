@@ -1,0 +1,22 @@
+<annotation>
+    <video>511-20160505-18.avi</video>
+    <frame>000145</frame>
+    <time>2016/05/05 18:03:10</time>
+    <width>352</width>
+    <height>240</height>
+    <weather>2</weather>
+    <facing>2</facing>
+    <flow>2</flow>
+    <vehicle>
+        <id>1</id>
+        <bndbox>
+            <xmax>352</xmax>
+            <xmin>321</xmin>
+            <ymax>155</ymax>
+            <ymin>129</ymin>
+        </bndbox>
+        <type>2</type>
+        <direction>1</direction>
+        <previous>0</previous>
+    </vehicle>
+</annotation>

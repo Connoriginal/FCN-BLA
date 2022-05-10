@@ -1,0 +1,43 @@
+<annotation>
+    <video>403-20160508-15.avi</video>
+    <frame>000066</frame>
+    <time>2015/05/08 15:01:35</time>
+    <width>352</width>
+    <height>240</height>
+    <weather>1</weather>
+    <facing>1</facing>
+    <flow>2</flow>
+    <vehicle>
+        <id>1</id>
+        <bndbox>
+            <xmax>79</xmax>
+            <xmin>54</xmin>
+            <ymax>92</ymax>
+            <ymin>67</ymin>
+        </bndbox>
+        <type>2</type>
+        <direction>2</direction>
+        <previous>1</previous>
+    </vehicle>
+    <vehicle>
+        <id>2</id>
+        <bndbox>
+            <xmax>73</xmax>
+            <xmin>56</xmin>
+            <ymax>69</ymax>
+            <ymin>59</ymin>
+        </bndbox>
+        <type>3</type>
+        <direction>2</direction>
+        <previous>2</previous>
+    </vehicle>
+    <passengers>
+        <id>1</id>
+        <bndbox>
+            <xmax>70</xmax>
+            <xmin>52</xmin>
+            <ymax>143</ymax>
+            <ymin>110</ymin>
+        </bndbox>
+    </passengers>
+</annotation>

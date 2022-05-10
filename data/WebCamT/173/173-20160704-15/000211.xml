@@ -1,0 +1,46 @@
+<annotation>
+    <video>173-20160704-15.avi</video>
+    <frame>000211</frame>
+    <time>2016/07/04 15:04:06</time>
+    <width>352</width>
+    <height>240</height>
+    <weather>1</weather>
+    <facing>1</facing>
+    <flow>2</flow>
+    <passengers>
+        <id>1</id>
+        <bndbox>
+            <xmax>94</xmax>
+            <xmin>75</xmin>
+            <ymax>224</ymax>
+            <ymin>187</ymin>
+        </bndbox>
+    </passengers>
+    <passengers>
+        <id>2</id>
+        <bndbox>
+            <xmax>103</xmax>
+            <xmin>88</xmin>
+            <ymax>216</ymax>
+            <ymin>178</ymin>
+        </bndbox>
+    </passengers>
+    <passengers>
+        <id>3</id>
+        <bndbox>
+            <xmax>127</xmax>
+            <xmin>110</xmin>
+            <ymax>225</ymax>
+            <ymin>181</ymin>
+        </bndbox>
+    </passengers>
+    <passengers>
+        <id>4</id>
+        <bndbox>
+            <xmax>157</xmax>
+            <xmin>134</xmin>
+            <ymax>229</ymax>
+            <ymin>188</ymin>
+        </bndbox>
+    </passengers>
+</annotation>

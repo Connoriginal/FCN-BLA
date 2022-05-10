@@ -1,0 +1,34 @@
+<annotation>
+    <video>173-20160704-07.avi</video>
+    <frame>000126</frame>
+    <time>2016/07/04 07:02:26</time>
+    <width>352</width>
+    <height>240</height>
+    <weather>1</weather>
+    <facing>2</facing>
+    <flow>1</flow>
+    <vehicle>
+        <id>1</id>
+        <bndbox>
+            <xmax>352</xmax>
+            <xmin>208</xmin>
+            <ymax>240</ymax>
+            <ymin>161</ymin>
+        </bndbox>
+        <type>8</type>
+        <direction>4</direction>
+        <previous>1</previous>
+    </vehicle>
+    <vehicle>
+        <id>2</id>
+        <bndbox>
+            <xmax>280</xmax>
+            <xmin>258</xmin>
+            <ymax>164</ymax>
+            <ymin>142</ymin>
+        </bndbox>
+        <type>10</type>
+        <direction>3</direction>
+        <previous>2</previous>
+    </vehicle>
+</annotation>

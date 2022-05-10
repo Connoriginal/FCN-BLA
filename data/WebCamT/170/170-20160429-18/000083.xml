@@ -1,0 +1,46 @@
+<annotation>
+    <video>170-20160429-18.avi</video>
+    <frame>000083</frame>
+    <time>2016/04/29 18:01:54</time>
+    <width>352</width>
+    <height>240</height>
+    <weather>1</weather>
+    <facing>1</facing>
+    <flow>2</flow>
+    <vehicle>
+        <id>1</id>
+        <bndbox>
+            <xmax>81</xmax>
+            <xmin>63</xmin>
+            <ymax>109</ymax>
+            <ymin>97</ymin>
+        </bndbox>
+        <type>3</type>
+        <direction>1</direction>
+        <previous>1</previous>
+    </vehicle>
+    <vehicle>
+        <id>2</id>
+        <bndbox>
+            <xmax>174</xmax>
+            <xmin>88</xmin>
+            <ymax>156</ymax>
+            <ymin>93</ymin>
+        </bndbox>
+        <type>9</type>
+        <direction>1</direction>
+        <previous>5</previous>
+    </vehicle>
+    <vehicle>
+        <id>3</id>
+        <bndbox>
+            <xmax>97</xmax>
+            <xmin>76</xmin>
+            <ymax>101</ymax>
+            <ymin>86</ymin>
+        </bndbox>
+        <type>8</type>
+        <direction>1</direction>
+        <previous>2</previous>
+    </vehicle>
+</annotation>

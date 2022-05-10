@@ -1,0 +1,46 @@
+<annotation>
+    <video>[Cam253]-2016_4_29_7h_150f.avi</video>
+    <frame>000148</frame>
+    <time>2016/04/29 07:03:01</time>
+    <width>352</width>
+    <height>240</height>
+    <weather>1</weather>
+    <facing>1</facing>
+    <flow>2</flow>
+    <vehicle>
+        <id>1</id>
+        <bndbox>
+            <xmax>217</xmax>
+            <xmin>186</xmin>
+            <ymax>143</ymax>
+            <ymin>123</ymin>
+        </bndbox>
+        <type>2</type>
+        <direction>5</direction>
+        <previous>0</previous>
+    </vehicle>
+    <vehicle>
+        <id>2</id>
+        <bndbox>
+            <xmax>130</xmax>
+            <xmin>118</xmin>
+            <ymax>107</ymax>
+            <ymin>100</ymin>
+        </bndbox>
+        <type>7</type>
+        <direction>5</direction>
+        <previous>1</previous>
+    </vehicle>
+    <vehicle>
+        <id>3</id>
+        <bndbox>
+            <xmax>100</xmax>
+            <xmin>96</xmin>
+            <ymax>99</ymax>
+            <ymin>94</ymin>
+        </bndbox>
+        <type>3</type>
+        <direction>5</direction>
+        <previous>2</previous>
+    </vehicle>
+</annotation>

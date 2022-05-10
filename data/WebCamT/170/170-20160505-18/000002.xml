@@ -1,0 +1,34 @@
+<annotation>
+    <video>170-20160505-18.avi</video>
+    <frame>000002</frame>
+    <time>2016/05/05 18:00:23</time>
+    <width>352</width>
+    <height>240</height>
+    <weather>1</weather>
+    <facing>1</facing>
+    <flow>1</flow>
+    <vehicle>
+        <id>1</id>
+        <bndbox>
+            <xmax>339</xmax>
+            <xmin>48</xmin>
+            <ymax>193</ymax>
+            <ymin>94</ymin>
+        </bndbox>
+        <type>9</type>
+        <direction>5</direction>
+        <previous>1</previous>
+    </vehicle>
+    <vehicle>
+        <id>2</id>
+        <bndbox>
+            <xmax>34</xmax>
+            <xmin>1</xmin>
+            <ymax>103</ymax>
+            <ymin>45</ymin>
+        </bndbox>
+        <type>8</type>
+        <direction>1</direction>
+        <previous>0</previous>
+    </vehicle>
+</annotation>

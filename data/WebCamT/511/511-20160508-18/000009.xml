@@ -1,0 +1,46 @@
+<annotation>
+    <video>511-20160508-18.avi</video>
+    <frame>000009</frame>
+    <time>2016/05/08 18:00:33</time>
+    <width>352</width>
+    <height>240</height>
+    <weather>1</weather>
+    <facing>2</facing>
+    <flow>1</flow>
+    <vehicle>
+        <id>1</id>
+        <bndbox>
+            <xmax>129</xmax>
+            <xmin>118</xmin>
+            <ymax>119</ymax>
+            <ymin>110</ymin>
+        </bndbox>
+        <type>3</type>
+        <direction>1</direction>
+        <previous>1</previous>
+    </vehicle>
+    <vehicle>
+        <id>2</id>
+        <bndbox>
+            <xmax>170</xmax>
+            <xmin>155</xmin>
+            <ymax>120</ymax>
+            <ymin>110</ymin>
+        </bndbox>
+        <type>3</type>
+        <direction>1</direction>
+        <previous>2</previous>
+    </vehicle>
+    <vehicle>
+        <id>3</id>
+        <bndbox>
+            <xmax>211</xmax>
+            <xmin>192</xmin>
+            <ymax>122</ymax>
+            <ymin>111</ymin>
+        </bndbox>
+        <type>3</type>
+        <direction>1</direction>
+        <previous>3</previous>
+    </vehicle>
+</annotation>

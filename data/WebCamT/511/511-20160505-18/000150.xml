@@ -1,0 +1,40 @@
+<annotation>
+    <video>511-20160505-18.avi</video>
+    <frame>000150</frame>
+    <time>2016/05/05 18:03:16</time>
+    <width>352</width>
+    <height>240</height>
+    <weather>2</weather>
+    <facing>2</facing>
+    <flow>2</flow>
+    <vehicle>
+        <id>1</id>
+        <bndbox>
+            <xmax>198</xmax>
+            <xmin>177</xmin>
+            <ymax>88</ymax>
+            <ymin>77</ymin>
+        </bndbox>
+        <type>2</type>
+        <direction>1</direction>
+        <previous>1</previous>
+    </vehicle>
+    <passengers>
+        <id>1</id>
+        <bndbox>
+            <xmax>86</xmax>
+            <xmin>69</xmin>
+            <ymax>192</ymax>
+            <ymin>151</ymin>
+        </bndbox>
+    </passengers>
+    <passengers>
+        <id>2</id>
+        <bndbox>
+            <xmax>259</xmax>
+            <xmin>254</xmin>
+            <ymax>103</ymax>
+            <ymin>89</ymin>
+        </bndbox>
+    </passengers>
+</annotation>

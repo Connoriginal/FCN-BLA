@@ -1,0 +1,22 @@
+<annotation>
+    <video>572-20160223-11.avi</video>
+    <frame>000056</frame>
+    <time>2016/02/23 11:24:52</time>
+    <width>352</width>
+    <height>240</height>
+    <weather>3</weather>
+    <facing>1</facing>
+    <flow>2</flow>
+    <vehicle>
+        <id>1</id>
+        <bndbox>
+            <xmax>89</xmax>
+            <xmin>81</xmin>
+            <ymax>134</ymax>
+            <ymin>129</ymin>
+        </bndbox>
+        <type>1</type>
+        <direction>2</direction>
+        <previous>0</previous>
+    </vehicle>
+</annotation>

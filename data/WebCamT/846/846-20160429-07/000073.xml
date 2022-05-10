@@ -1,0 +1,22 @@
+<annotation>
+    <video>846-20160429-07.avi</video>
+    <frame>000073</frame>
+    <time>2016/04/29 07:55:59</time>
+    <width>352</width>
+    <height>240</height>
+    <weather>1</weather>
+    <facing>1</facing>
+    <flow>2</flow>
+    <vehicle>
+        <id>1</id>
+        <bndbox>
+            <xmax>124</xmax>
+            <xmin>65</xmin>
+            <ymax>168</ymax>
+            <ymin>139</ymin>
+        </bndbox>
+        <type>2</type>
+        <direction>1</direction>
+        <previous>1</previous>
+    </vehicle>
+</annotation>

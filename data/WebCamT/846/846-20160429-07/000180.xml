@@ -1,0 +1,43 @@
+<annotation>
+    <video>846-20160429-07.avi</video>
+    <frame>000180</frame>
+    <time>2016/04/29 07:58:05</time>
+    <width>352</width>
+    <height>240</height>
+    <weather>1</weather>
+    <facing>1</facing>
+    <flow>1</flow>
+    <vehicle>
+        <id>1</id>
+        <bndbox>
+            <xmax>124</xmax>
+            <xmin>65</xmin>
+            <ymax>167</ymax>
+            <ymin>138</ymin>
+        </bndbox>
+        <type>2</type>
+        <direction>1</direction>
+        <previous>1</previous>
+    </vehicle>
+    <vehicle>
+        <id>2</id>
+        <bndbox>
+            <xmax>285</xmax>
+            <xmin>226</xmin>
+            <ymax>216</ymax>
+            <ymin>171</ymin>
+        </bndbox>
+        <type>1</type>
+        <direction>1</direction>
+        <previous>2</previous>
+    </vehicle>
+    <passengers>
+        <id>1</id>
+        <bndbox>
+            <xmax>43</xmax>
+            <xmin>20</xmin>
+            <ymax>238</ymax>
+            <ymin>205</ymin>
+        </bndbox>
+    </passengers>
+</annotation>

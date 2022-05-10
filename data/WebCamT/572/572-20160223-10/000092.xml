@@ -1,0 +1,46 @@
+<annotation>
+    <video>572-20160223-10.avi</video>
+    <frame>000092</frame>
+    <time>2016/02/23 10:33:18</time>
+    <width>352</width>
+    <height>240</height>
+    <weather>1</weather>
+    <facing>1</facing>
+    <flow>2</flow>
+    <vehicle>
+        <id>1</id>
+        <bndbox>
+            <xmax>234</xmax>
+            <xmin>185</xmin>
+            <ymax>242</ymax>
+            <ymin>204</ymin>
+        </bndbox>
+        <type>2</type>
+        <direction>1</direction>
+        <previous>0</previous>
+    </vehicle>
+    <vehicle>
+        <id>2</id>
+        <bndbox>
+            <xmax>353</xmax>
+            <xmin>262</xmin>
+            <ymax>242</ymax>
+            <ymin>164</ymin>
+        </bndbox>
+        <type>6</type>
+        <direction>1</direction>
+        <previous>0</previous>
+    </vehicle>
+    <vehicle>
+        <id>3</id>
+        <bndbox>
+            <xmax>273</xmax>
+            <xmin>244</xmin>
+            <ymax>177</ymax>
+            <ymin>158</ymin>
+        </bndbox>
+        <type>3</type>
+        <direction>1</direction>
+        <previous>0</previous>
+    </vehicle>
+</annotation>

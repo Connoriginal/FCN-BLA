@@ -1,0 +1,31 @@
+<annotation>
+    <video>170-20160503-07.avi</video>
+    <frame>000132</frame>
+    <time>2016/05/03 07:57:15</time>
+    <width>352</width>
+    <height>240</height>
+    <weather>3</weather>
+    <facing>1</facing>
+    <flow>1</flow>
+    <vehicle>
+        <id>1</id>
+        <bndbox>
+            <xmax>247</xmax>
+            <xmin>1</xmin>
+            <ymax>155</ymax>
+            <ymin>67</ymin>
+        </bndbox>
+        <type>9</type>
+        <direction>5</direction>
+        <previous>2</previous>
+    </vehicle>
+    <passengers>
+        <id>1</id>
+        <bndbox>
+            <xmax>31</xmax>
+            <xmin>21</xmin>
+            <ymax>70</ymax>
+            <ymin>58</ymin>
+        </bndbox>
+    </passengers>
+</annotation>

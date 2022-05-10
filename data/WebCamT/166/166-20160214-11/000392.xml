@@ -1,0 +1,43 @@
+<annotation>
+    <video>166-20160214-11.avi</video>
+    <frame>000392</frame>
+    <time>2016/02/14 11:36:55</time>
+    <width>352</width>
+    <height>240</height>
+    <weather>1</weather>
+    <facing>1</facing>
+    <flow>1</flow>
+    <vehicle>
+        <id>1</id>
+        <bndbox>
+            <xmax>94</xmax>
+            <xmin>71</xmin>
+            <ymax>83</ymax>
+            <ymin>70</ymin>
+        </bndbox>
+        <type>3</type>
+        <direction>1</direction>
+        <previous>1</previous>
+    </vehicle>
+    <vehicle>
+        <id>2</id>
+        <bndbox>
+            <xmax>43</xmax>
+            <xmin>0</xmin>
+            <ymax>151</ymax>
+            <ymin>127</ymin>
+        </bndbox>
+        <type>1</type>
+        <direction>3</direction>
+        <previous>3</previous>
+    </vehicle>
+    <passengers>
+        <id>1</id>
+        <bndbox>
+            <xmax>338</xmax>
+            <xmin>285</xmin>
+            <ymax>84</ymax>
+            <ymin>74</ymin>
+        </bndbox>
+    </passengers>
+</annotation>
